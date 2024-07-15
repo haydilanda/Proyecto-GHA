@@ -36,3 +36,7 @@ El uso de Ridge Regression resultó efectivo para manejar la multicolinealidad y
 Los dashboards fueron efectivos para comunicar los resultados del análisis de manera clara y concisa.
 La interactividad y las visualizaciones facilitaron la comprensión de las proyecciones y las tendencias.
 
+![image](https://github.com/user-attachments/assets/b2bc97d2-6e1c-4962-bfb8-b215f3d8cfa4)
+
+
+
